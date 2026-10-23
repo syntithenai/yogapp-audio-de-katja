@@ -1,0 +1,249 @@
+{
+  "id": "evening-unload-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 654,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:26]",
+      "file": "c007.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:26]",
+      "file": "c009.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:33]",
+      "file": "c012.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Lassen Sie den Tag erst einmal zu Ende gehen.",
+      "file": "c013.ogg",
+      "durationSec": 6.096
+    },
+    {
+      "index": 14,
+      "text": "Was passiert ist, ist passiert.",
+      "file": "c014.ogg",
+      "durationSec": 5.472
+    },
+    {
+      "index": 15,
+      "text": "Was übrig bleibt, kann bis zum Morgen warten.",
+      "file": "c015.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 16,
+      "text": "[Pause:33]",
+      "file": "c016.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Stellen Sie sich beim Ausatmen vor, Aufgaben auf einem Regal zu platzieren.",
+      "file": "c017.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 18,
+      "text": "Einer nach dem anderen. Kein Drama. Einfach hinlegen.",
+      "file": "c018.ogg",
+      "durationSec": 10.44
+    },
+    {
+      "index": 19,
+      "text": "[Pause:53]",
+      "file": "c019.ogg",
+      "durationSec": 53.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Vier einatmen. Atme sechs aus.",
+      "file": "c020.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 21,
+      "text": "[Pause:33]",
+      "file": "c021.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Machen Sie das Gesicht weicher.",
+      "file": "c022.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 23,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c023.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 24,
+      "text": "Schwere Waffen. Schwere Beine.",
+      "file": "c024.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 25,
+      "text": "[Pause:40]",
+      "file": "c025.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 26,
+      "text": "Wenn der Geist wieder aufhört, nicken Sie ihm zu und kehren Sie zum Regal zurück.",
+      "file": "c026.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 27,
+      "text": "[Pause:53]",
+      "file": "c027.ogg",
+      "durationSec": 53.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Spüren Sie, wie die Matratze oder der Stuhl Sie halten.",
+      "file": "c028.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 29,
+      "text": "[Pause:66]",
+      "file": "c029.ogg",
+      "durationSec": 66.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Ruhiger atmen. Körper schwerer.",
+      "file": "c030.ogg",
+      "durationSec": 7.032
+    },
+    {
+      "index": 31,
+      "text": "[Pause:90]",
+      "file": "c031.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "[Pause:40]",
+      "file": "c032.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c033.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 34,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c034.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 35,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c036.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 37,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c037.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

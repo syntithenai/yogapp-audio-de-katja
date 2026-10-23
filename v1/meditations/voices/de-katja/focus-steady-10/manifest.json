@@ -1,0 +1,289 @@
+{
+  "id": "focus-steady-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 649,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:21]",
+      "file": "c007.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:21]",
+      "file": "c009.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:26]",
+      "file": "c012.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Wählen Sie als Punkt den Atem an den Nasenlöchern.",
+      "file": "c013.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 14,
+      "text": "Bleiben Sie beim Gefühl von Luft.",
+      "file": "c014.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 15,
+      "text": "[Pause:26]",
+      "file": "c015.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Zählen Sie jedes Ausatmen von eins bis zehn.",
+      "file": "c016.ogg",
+      "durationSec": 6.624
+    },
+    {
+      "index": 17,
+      "text": "Wenn Sie den Überblick verlieren, beginnen Sie noch einmal bei eins ohne Vorwürfe.",
+      "file": "c017.ogg",
+      "durationSec": 9.936
+    },
+    {
+      "index": 18,
+      "text": "[Pause:21]",
+      "file": "c018.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Eins.",
+      "file": "c019.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 20,
+      "text": "[Pause:21]",
+      "file": "c020.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Zwei.",
+      "file": "c021.ogg",
+      "durationSec": 2.328
+    },
+    {
+      "index": 22,
+      "text": "[Pause:21]",
+      "file": "c022.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Drei.",
+      "file": "c023.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 24,
+      "text": "[Pause:21]",
+      "file": "c024.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Vier.",
+      "file": "c025.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 26,
+      "text": "[Pause:21]",
+      "file": "c026.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Fünf.",
+      "file": "c027.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 28,
+      "text": "[Pause:21]",
+      "file": "c028.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Fahren Sie schweigend bis zehn fort und beginnen Sie dann bei eins.",
+      "file": "c029.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 30,
+      "text": "[Pause:90]",
+      "file": "c030.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Lassen Sie die Zählung los.",
+      "file": "c031.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 32,
+      "text": "Ruhen Sie mit bloßer Aufmerksamkeit auf Ihrem Atem.",
+      "file": "c032.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 33,
+      "text": "[Pause:79]",
+      "file": "c033.ogg",
+      "durationSec": 79.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "Klarheit ohne Härte.",
+      "file": "c034.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 35,
+      "text": "[Pause:42]",
+      "file": "c035.ogg",
+      "durationSec": 42.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "[Pause:32]",
+      "file": "c036.ogg",
+      "durationSec": 32.0,
+      "silence": true
+    },
+    {
+      "index": 37,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c037.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 38,
+      "text": "Ruhe hier.",
+      "file": "c038.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 39,
+      "text": "[Pause:44]",
+      "file": "c039.ogg",
+      "durationSec": 44.0,
+      "silence": true
+    },
+    {
+      "index": 40,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c040.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 41,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c041.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 42,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c042.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 43,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c043.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

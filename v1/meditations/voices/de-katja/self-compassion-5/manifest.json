@@ -1,0 +1,183 @@
+{
+  "id": "self-compassion-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 331,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Legen Sie eine Hand auf das Herz oder legen Sie beide Hände in den Schoß.",
+      "file": "c006.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 7,
+      "text": "Nehmen Sie wahr, wie es Ihnen geht, ohne es zu reparieren.",
+      "file": "c007.ogg",
+      "durationSec": 7.992
+    },
+    {
+      "index": 8,
+      "text": "[Pause:31]",
+      "file": "c008.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Wenn es Schwierigkeiten gibt, erkennen Sie es an.",
+      "file": "c009.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 10,
+      "text": "Dies ist ein Moment der Schwierigkeit.",
+      "file": "c010.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 11,
+      "text": "Schwierigkeiten gehören zum Menschsein.",
+      "file": "c011.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 12,
+      "text": "[Pause:39]",
+      "file": "c012.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Bieten Sie sich selbst Freundlichkeit an, so wie Sie sie einem Freund anbieten würden.",
+      "file": "c013.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 14,
+      "text": "Möge ich freundlich zu mir selbst sein.",
+      "file": "c014.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 15,
+      "text": "Möge ich mir das Mitgefühl geben, das ich brauche.",
+      "file": "c015.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 16,
+      "text": "[Pause:39]",
+      "file": "c016.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Wieder langsam.",
+      "file": "c017.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 18,
+      "text": "Möge ich freundlich zu mir selbst sein.",
+      "file": "c018.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 19,
+      "text": "Möge ich mir das Mitgefühl geben, das ich brauche.",
+      "file": "c019.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 20,
+      "text": "[Pause:45]",
+      "file": "c020.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Atmen Sie mit der Hand auf das Herz, wenn es dort ist.",
+      "file": "c021.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 22,
+      "text": "[Pause:39]",
+      "file": "c022.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Diese Weichheit muss man sich nicht verdienen.",
+      "file": "c023.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 24,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c024.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 25,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c025.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 26,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c026.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 27,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c027.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

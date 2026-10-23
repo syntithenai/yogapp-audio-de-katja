@@ -1,0 +1,196 @@
+{
+  "id": "midday-reset-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 343,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Lassen Sie den Morgen hier ausklingen, auch wenn der Tag noch weitergeht.",
+      "file": "c006.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 7,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c007.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 8,
+      "text": "Öffnen Sie den Kiefer.",
+      "file": "c008.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 9,
+      "text": "[Pause:30]",
+      "file": "c009.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Durch die Nase einatmen.",
+      "file": "c010.ogg",
+      "durationSec": 4.392
+    },
+    {
+      "index": 11,
+      "text": "Atmen Sie durch den Mund aus, als ob Sie ein Fenster beschlagen würden.",
+      "file": "c011.ogg",
+      "durationSec": 8.592
+    },
+    {
+      "index": 12,
+      "text": "Wieder.",
+      "file": "c012.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 13,
+      "text": "[Pause:30]",
+      "file": "c013.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 14,
+      "text": "Stellen Sie sich vor, Sie würden alles absetzen, was Sie trugen.",
+      "file": "c014.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 15,
+      "text": "Es kann neben Ihnen auf dem Tisch warten.",
+      "file": "c015.ogg",
+      "durationSec": 5.616
+    },
+    {
+      "index": 16,
+      "text": "[Pause:37]",
+      "file": "c016.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Spüren Sie, wie die Wirbelsäule hoch wird.",
+      "file": "c017.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 18,
+      "text": "Spüren Sie, wie der Bauch weich wird.",
+      "file": "c018.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 19,
+      "text": "[Pause:30]",
+      "file": "c019.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Fragen Sie ruhig: Worauf kommt es in der nächsten Stunde an?",
+      "file": "c020.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 21,
+      "text": "Ein klarer nächster Schritt reicht aus.",
+      "file": "c021.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 22,
+      "text": "[Pause:44]",
+      "file": "c022.ogg",
+      "durationSec": 44.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Atmen Sie diese Einfachheit ein.",
+      "file": "c023.ogg",
+      "durationSec": 5.04
+    },
+    {
+      "index": 24,
+      "text": "Atmen Sie die Anstrengung aus.",
+      "file": "c024.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 25,
+      "text": "[Pause:37]",
+      "file": "c025.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 26,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c026.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 27,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c027.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 28,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c028.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 29,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c029.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

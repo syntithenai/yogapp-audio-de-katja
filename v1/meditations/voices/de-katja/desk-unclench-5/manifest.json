@@ -1,0 +1,173 @@
+{
+  "id": "desk-unclench-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 331,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Bleiben Sie sitzen. Dies ist für die Mitte der Arbeit.",
+      "file": "c001.ogg",
+      "durationSec": 8.376
+    },
+    {
+      "index": 2,
+      "text": "Lösen Sie für einen Moment den Blick vom Bildschirm.",
+      "file": "c002.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 3,
+      "text": "Schauen Sie weiter weg, wenn Sie können.",
+      "file": "c003.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 4,
+      "text": "[Pause:28]",
+      "file": "c004.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 5,
+      "text": "Rollen Sie die Schultern nach oben, hinten und unten.",
+      "file": "c005.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 6,
+      "text": "Noch zweimal.",
+      "file": "c006.ogg",
+      "durationSec": 3.168
+    },
+    {
+      "index": 7,
+      "text": "[Pause:38]",
+      "file": "c007.ogg",
+      "durationSec": 38.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Öffne und schließe die Hände.",
+      "file": "c008.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 9,
+      "text": "Schütteln Sie sie leicht.",
+      "file": "c009.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 10,
+      "text": "[Pause:28]",
+      "file": "c010.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "Machen Sie die Braue weicher.",
+      "file": "c011.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 12,
+      "text": "Öffnen Sie den Kiefer. Lassen Sie die Zunge ruhen.",
+      "file": "c012.ogg",
+      "durationSec": 7.968
+    },
+    {
+      "index": 13,
+      "text": "[Pause:38]",
+      "file": "c013.ogg",
+      "durationSec": 38.0,
+      "silence": true
+    },
+    {
+      "index": 14,
+      "text": "Atmen Sie seitlich an den Rippen ein.",
+      "file": "c014.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 15,
+      "text": "Atmen Sie aus und lassen Sie die Brust ruhen.",
+      "file": "c015.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 16,
+      "text": "[Pause:38]",
+      "file": "c016.ogg",
+      "durationSec": 38.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Blinken Sie dreimal langsam.",
+      "file": "c017.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 18,
+      "text": "[Pause:28]",
+      "file": "c018.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Noch ein voller Atemzug.",
+      "file": "c019.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 20,
+      "text": "Kehren Sie zurück, wenn Sie bereit sind, etwas weniger angespannt.",
+      "file": "c020.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 21,
+      "text": "[Pause:28]",
+      "file": "c021.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c022.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 23,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c023.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 24,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 25,
+      "text": "Gehen Sie entspannt zur nächsten Aufgabe über.",
+      "file": "c025.ogg",
+      "durationSec": 5.928
+    }
+  ]
+}

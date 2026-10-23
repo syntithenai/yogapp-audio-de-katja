@@ -1,0 +1,249 @@
+{
+  "id": "gratitude-expand-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 650,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:27]",
+      "file": "c007.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:27]",
+      "file": "c009.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:34]",
+      "file": "c012.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Beginnen Sie mit einem kleinen konkreten Gut.",
+      "file": "c013.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 14,
+      "text": "Halten Sie es. Vielen Dank.",
+      "file": "c014.ogg",
+      "durationSec": 6.168
+    },
+    {
+      "index": 15,
+      "text": "[Pause:40]",
+      "file": "c015.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Eine Sekunde. Eine Person, ein Ort oder Trost.",
+      "file": "c016.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 17,
+      "text": "Danke schön.",
+      "file": "c017.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 18,
+      "text": "[Pause:40]",
+      "file": "c018.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Ein Drittel. Etwas an Ihrem Körper, das heute funktioniert.",
+      "file": "c019.ogg",
+      "durationSec": 9.552
+    },
+    {
+      "index": 20,
+      "text": "Danke schön.",
+      "file": "c020.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 21,
+      "text": "[Pause:40]",
+      "file": "c021.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Sprechen Sie mit den Menschen, die freundlich waren, auch nur für kurze Zeit.",
+      "file": "c022.ogg",
+      "durationSec": 9.6
+    },
+    {
+      "index": 23,
+      "text": "[Pause:54]",
+      "file": "c023.ogg",
+      "durationSec": 54.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "Erweitern Sie sich auf den Ort, an dem Sie sich befinden. Schutz. Luft. Boden.",
+      "file": "c024.ogg",
+      "durationSec": 14.28
+    },
+    {
+      "index": 25,
+      "text": "[Pause:54]",
+      "file": "c025.ogg",
+      "durationSec": 54.0,
+      "silence": true
+    },
+    {
+      "index": 26,
+      "text": "Wenn Ihnen Dankbarkeit schwerfällt, danken Sie für die Mühe, die Sie mit sich gebracht haben.",
+      "file": "c026.ogg",
+      "durationSec": 10.488
+    },
+    {
+      "index": 27,
+      "text": "Das zählt.",
+      "file": "c027.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 28,
+      "text": "[Pause:40]",
+      "file": "c028.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Ruhe in jeglicher Wärme, die aufkam.",
+      "file": "c029.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 30,
+      "text": "Oder ruhen Sie sich in der Absicht selbst aus.",
+      "file": "c030.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 31,
+      "text": "[Pause:90]",
+      "file": "c031.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "[Pause:40]",
+      "file": "c032.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c033.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 34,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c034.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 35,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c036.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 37,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c037.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

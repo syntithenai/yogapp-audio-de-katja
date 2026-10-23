@@ -1,0 +1,178 @@
+{
+  "id": "open-awareness-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 330,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Beginnen Sie einige Zyklen lang mit dem Atem.",
+      "file": "c006.ogg",
+      "durationSec": 6.48
+    },
+    {
+      "index": 7,
+      "text": "[Pause:28]",
+      "file": "c007.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Jetzt erweitern. Fügen Sie Geräusche hinzu.",
+      "file": "c008.ogg",
+      "durationSec": 7.728
+    },
+    {
+      "index": 9,
+      "text": "Nahe. Weit. Ändern. Stetig.",
+      "file": "c009.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 10,
+      "text": "[Pause:28]",
+      "file": "c010.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "Empfindungen im Körper einbeziehen.",
+      "file": "c011.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 12,
+      "text": "Kontaktpunkte. Temperatur. Sanfter Puls.",
+      "file": "c012.ogg",
+      "durationSec": 9.864
+    },
+    {
+      "index": 13,
+      "text": "[Pause:28]",
+      "file": "c013.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 14,
+      "text": "Beziehen Sie den Raum mit ein.",
+      "file": "c014.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 15,
+      "text": "Bewusstsein wie offener Himmel.",
+      "file": "c015.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 16,
+      "text": "[Pause:34]",
+      "file": "c016.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Gedanken können wie Wetter erscheinen.",
+      "file": "c017.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 18,
+      "text": "Sie müssen sie nicht verfolgen oder drängen.",
+      "file": "c018.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 19,
+      "text": "Himmel bleibt.",
+      "file": "c019.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 20,
+      "text": "[Pause:45]",
+      "file": "c020.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Ruhen Sie sich auf diesem offenen Feld aus.",
+      "file": "c021.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 22,
+      "text": "[Pause:45]",
+      "file": "c022.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c023.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 24,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c024.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 25,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c025.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 26,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c026.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

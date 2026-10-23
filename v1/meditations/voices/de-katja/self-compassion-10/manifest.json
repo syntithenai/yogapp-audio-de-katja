@@ -1,0 +1,262 @@
+{
+  "id": "self-compassion-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 653,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:26]",
+      "file": "c007.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:26]",
+      "file": "c009.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:32]",
+      "file": "c012.ogg",
+      "durationSec": 32.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Hand aufs Herz, wenn das hilft.",
+      "file": "c013.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 14,
+      "text": "Nehmen Sie Ihren Zustand wahr, ohne zu urteilen.",
+      "file": "c014.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 15,
+      "text": "[Pause:32]",
+      "file": "c015.ogg",
+      "durationSec": 32.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Dies ist ein Moment des Leidens oder einer gewöhnlichen menschlichen Belastung.",
+      "file": "c016.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 17,
+      "text": "Andere spüren das auch.",
+      "file": "c017.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 18,
+      "text": "[Pause:39]",
+      "file": "c018.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Möge ich in diesem Moment freundlich zu mir selbst sein.",
+      "file": "c019.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 20,
+      "text": "[Pause:32]",
+      "file": "c020.ogg",
+      "durationSec": 32.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Möge ich mich so akzeptieren, wie ich bin.",
+      "file": "c021.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 22,
+      "text": "[Pause:32]",
+      "file": "c022.ogg",
+      "durationSec": 32.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Möge ich mir das Mitgefühl geben, das ich brauche.",
+      "file": "c023.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 24,
+      "text": "[Pause:39]",
+      "file": "c024.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Wiederholen Sie die Sätze, die landen. Lassen Sie diejenigen, die das nicht tun.",
+      "file": "c025.ogg",
+      "durationSec": 11.688
+    },
+    {
+      "index": 26,
+      "text": "[Pause:52]",
+      "file": "c026.ogg",
+      "durationSec": 52.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Stellen Sie sich vor, wie ein weiser Freund mit sich selbst sprechen würde.",
+      "file": "c027.ogg",
+      "durationSec": 8.808
+    },
+    {
+      "index": 28,
+      "text": "Welchen Ton würden sie verwenden?",
+      "file": "c028.ogg",
+      "durationSec": 5.28
+    },
+    {
+      "index": 29,
+      "text": "Bieten Sie sich jetzt diesen Ton an.",
+      "file": "c029.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 30,
+      "text": "[Pause:65]",
+      "file": "c030.ogg",
+      "durationSec": 65.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Atmen Sie Freundlichkeit ein.",
+      "file": "c031.ogg",
+      "durationSec": 4.656
+    },
+    {
+      "index": 32,
+      "text": "Atme die Härte aus.",
+      "file": "c032.ogg",
+      "durationSec": 3.936
+    },
+    {
+      "index": 33,
+      "text": "[Pause:78]",
+      "file": "c033.ogg",
+      "durationSec": 78.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "[Pause:39]",
+      "file": "c034.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c035.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 36,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c036.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 37,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c037.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 38,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c038.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 39,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c039.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

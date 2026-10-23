@@ -1,0 +1,371 @@
+{
+  "id": "quit-smoking-free-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 622,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Diese Übung ist für Sie als Nichtraucher.",
+      "file": "c001.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 2,
+      "text": "Finden Sie eine bequeme Sitz- oder Liegeposition, wenn Ihnen das besser gefällt.",
+      "file": "c002.ogg",
+      "durationSec": 10.416
+    },
+    {
+      "index": 3,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c003.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 4,
+      "text": "Machen Sie die Augen weich oder schließen Sie sie.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Atmen Sie langsam ein.",
+      "file": "c005.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 6,
+      "text": "Und atmen Sie länger aus.",
+      "file": "c006.ogg",
+      "durationSec": 4.296
+    },
+    {
+      "index": 7,
+      "text": "[Pause:16]",
+      "file": "c007.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Spüren Sie, wie der Körper gestützt wird.",
+      "file": "c008.ogg",
+      "durationSec": 6.264
+    },
+    {
+      "index": 9,
+      "text": "Nichts zu beweisen. Nirgendwohin zu hetzen.",
+      "file": "c009.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 10,
+      "text": "[Pause:16]",
+      "file": "c010.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "Wir werden mit klaren Aussagen der Freiheit arbeiten.",
+      "file": "c011.ogg",
+      "durationSec": 7.128
+    },
+    {
+      "index": 12,
+      "text": "Hören Sie zu oder wiederholen Sie still, was sich als wahr anfühlt.",
+      "file": "c012.ogg",
+      "durationSec": 8.208
+    },
+    {
+      "index": 13,
+      "text": "[Pause:18]",
+      "file": "c013.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 14,
+      "text": "Ich bin jetzt ein Nichtraucher.",
+      "file": "c014.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 15,
+      "text": "[Pause:16]",
+      "file": "c015.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Ich bin so glücklich, die Nikotinsucht loszuwerden.",
+      "file": "c016.ogg",
+      "durationSec": 7.44
+    },
+    {
+      "index": 17,
+      "text": "[Pause:18]",
+      "file": "c017.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Rauchen ist nicht mehr Teil meines Lebens oder meiner Identität.",
+      "file": "c018.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 19,
+      "text": "[Pause:18]",
+      "file": "c019.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Ich bekomme diese Auslöser wegen vergangener Erinnerungen oder weil ich andere Raucher beobachte.",
+      "file": "c020.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 21,
+      "text": "[Pause:18]",
+      "file": "c021.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Diese Auslöser können mir nichts anhaben, denn ich habe mich aus der Sklaverei der Sucht befreit.",
+      "file": "c022.ogg",
+      "durationSec": 10.896
+    },
+    {
+      "index": 23,
+      "text": "[Pause:22]",
+      "file": "c023.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "Ich fühle Mitleid mit Rauchern, die immer noch in ihren Rauchtäuschungen gefangen sind.",
+      "file": "c024.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 25,
+      "text": "Die in dem elenden Kreislauf von Nikotinmangel, Verlangen und Nachfüllen gefangen sind.",
+      "file": "c025.ogg",
+      "durationSec": 10.992
+    },
+    {
+      "index": 26,
+      "text": "[Pause:18]",
+      "file": "c026.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Ich leide nicht mehr wie sie.",
+      "file": "c027.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 28,
+      "text": "[Pause:14]",
+      "file": "c028.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Jetzt kenne ich die Wahrheit.",
+      "file": "c029.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 30,
+      "text": "Rauchen bringt absolut keine Vorteile.",
+      "file": "c030.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 31,
+      "text": "[Pause:18]",
+      "file": "c031.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Der Urin-Test hat niemandem geholfen und wird es auch nie.",
+      "file": "c032.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 33,
+      "text": "[Pause:18]",
+      "file": "c033.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "Rauchen hat mir viele Probleme bereitet.",
+      "file": "c034.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 35,
+      "text": "[Pause:14]",
+      "file": "c035.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "Ich habe die beste Entscheidung meines Lebens getroffen, nie wieder einen Zug dieses widerlichen Giftes zu nehmen.",
+      "file": "c036.ogg",
+      "durationSec": 12.12
+    },
+    {
+      "index": 37,
+      "text": "Diese Entscheidung war endgültig.",
+      "file": "c037.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 38,
+      "text": "[Pause:22]",
+      "file": "c038.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Jetzt respektiere ich das Gesetz des Rauchens.",
+      "file": "c039.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 40,
+      "text": "[Pause:18]",
+      "file": "c040.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Jetzt werden alle meine Situationen besser.",
+      "file": "c041.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 42,
+      "text": "Ich werde glücklicher, gesünder und selbstbewusster.",
+      "file": "c042.ogg",
+      "durationSec": 6.984
+    },
+    {
+      "index": 43,
+      "text": "[Pause:22]",
+      "file": "c043.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 44,
+      "text": "Ich bin frei.",
+      "file": "c044.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 45,
+      "text": "[Pause:28]",
+      "file": "c045.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 46,
+      "text": "Genieße diese Freiheit für ein paar Atemzüge.",
+      "file": "c046.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 47,
+      "text": "Auslöser können immer noch als alte Erinnerung auftauchen.",
+      "file": "c047.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 48,
+      "text": "Sie können dich nicht wieder in die Sklaverei zurückbringen.",
+      "file": "c048.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 49,
+      "text": "[Pause:36]",
+      "file": "c049.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 50,
+      "text": "Ich bin jetzt Nichtraucher.",
+      "file": "c050.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 51,
+      "text": "Ich bin frei.",
+      "file": "c051.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 52,
+      "text": "[Pause:28]",
+      "file": "c052.ogg",
+      "durationSec": 28.0,
+      "silence": true
+    },
+    {
+      "index": 53,
+      "text": "Mach noch einen entspannten Atemzug.",
+      "file": "c053.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 54,
+      "text": "Bewege die Finger.",
+      "file": "c054.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 55,
+      "text": "Wenn du bereit bist, öffne die Augen.",
+      "file": "c055.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 56,
+      "text": "Trage diese Freiheit mit dir.",
+      "file": "c056.ogg",
+      "durationSec": 4.776
+    }
+  ]
+}

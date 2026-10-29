@@ -1,0 +1,414 @@
+{
+  "id": "compassion-circle-20",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 1280,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:27]",
+      "file": "c007.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:27]",
+      "file": "c009.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:34]",
+      "file": "c012.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Wir werden einem immer größer werdenden Kreis Freundlichkeit erweisen.",
+      "file": "c013.ogg",
+      "durationSec": 8.568
+    },
+    {
+      "index": 14,
+      "text": "Phrasen sind Einladungen, keine Befehle.",
+      "file": "c014.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 15,
+      "text": "[Pause:34]",
+      "file": "c015.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Zu dir selbst.",
+      "file": "c016.ogg",
+      "durationSec": 3.336
+    },
+    {
+      "index": 17,
+      "text": "Möge ich in Sicherheit sein.",
+      "file": "c017.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 18,
+      "text": "[Pause:27]",
+      "file": "c018.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Möge es mir gut gehen.",
+      "file": "c019.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 20,
+      "text": "[Pause:27]",
+      "file": "c020.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Möge ich mit Leichtigkeit leben.",
+      "file": "c021.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 22,
+      "text": "[Pause:41]",
+      "file": "c022.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Wieder langsam.",
+      "file": "c023.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 24,
+      "text": "Möge ich in Sicherheit sein.",
+      "file": "c024.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 25,
+      "text": "Möge es mir gut gehen.",
+      "file": "c025.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 26,
+      "text": "Möge ich mit Leichtigkeit leben.",
+      "file": "c026.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 27,
+      "text": "[Pause:69]",
+      "file": "c027.ogg",
+      "durationSec": 69.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Erinnern Sie sich an einen Freund oder jemanden, der Ihnen leicht am Herzen liegt.",
+      "file": "c028.ogg",
+      "durationSec": 9.768
+    },
+    {
+      "index": 29,
+      "text": "Mögen Sie in Sicherheit sein.",
+      "file": "c029.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 30,
+      "text": "[Pause:27]",
+      "file": "c030.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Möge es dir gut gehen.",
+      "file": "c031.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 32,
+      "text": "[Pause:27]",
+      "file": "c032.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Mögest du mit Leichtigkeit leben.",
+      "file": "c033.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 34,
+      "text": "[Pause:69]",
+      "file": "c034.ogg",
+      "durationSec": 69.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Denken Sie an eine neutrale Person. Jemand, den du kaum kennst.",
+      "file": "c035.ogg",
+      "durationSec": 10.056
+    },
+    {
+      "index": 36,
+      "text": "Mögen Sie in Sicherheit sein.",
+      "file": "c036.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 37,
+      "text": "Möge es dir gut gehen.",
+      "file": "c037.ogg",
+      "durationSec": 4.248
+    },
+    {
+      "index": 38,
+      "text": "Mögest du mit Leichtigkeit leben.",
+      "file": "c038.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 39,
+      "text": "[Pause:69]",
+      "file": "c039.ogg",
+      "durationSec": 69.0,
+      "silence": true
+    },
+    {
+      "index": 40,
+      "text": "Wenn es möglich erscheint, beziehen Sie jemanden, der schwierig ist, auf die leichte Schulter.",
+      "file": "c040.ogg",
+      "durationSec": 11.304
+    },
+    {
+      "index": 41,
+      "text": "Oder kehren Sie zu sich selbst zurück, wenn das heute klüger ist.",
+      "file": "c041.ogg",
+      "durationSec": 8.16
+    },
+    {
+      "index": 42,
+      "text": "Mögen Sie frei von Leiden sein.",
+      "file": "c042.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 43,
+      "text": "[Pause:55]",
+      "file": "c043.ogg",
+      "durationSec": 55.0,
+      "silence": true
+    },
+    {
+      "index": 44,
+      "text": "Erweitere dich auf alle Wesen, nah und fern.",
+      "file": "c044.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 45,
+      "text": "Mögen alle Wesen in Sicherheit sein.",
+      "file": "c045.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 46,
+      "text": "[Pause:34]",
+      "file": "c046.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 47,
+      "text": "Möge es allen Wesen gut gehen.",
+      "file": "c047.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 48,
+      "text": "[Pause:34]",
+      "file": "c048.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 49,
+      "text": "Mögen alle Wesen mit Leichtigkeit leben.",
+      "file": "c049.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 50,
+      "text": "[Pause:82]",
+      "file": "c050.ogg",
+      "durationSec": 82.0,
+      "silence": true
+    },
+    {
+      "index": 51,
+      "text": "Kehren Sie zu Ihrem eigenen Körper und Atem zurück.",
+      "file": "c051.ogg",
+      "durationSec": 6.888
+    },
+    {
+      "index": 52,
+      "text": "Ruhe im Nachglühen der Sätze.",
+      "file": "c052.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 53,
+      "text": "[Pause:150]",
+      "file": "c053.ogg",
+      "durationSec": 150.0,
+      "silence": true
+    },
+    {
+      "index": 54,
+      "text": "Nichts zu erzwingen. Weichheit ist genug.",
+      "file": "c054.ogg",
+      "durationSec": 7.68
+    },
+    {
+      "index": 55,
+      "text": "[Pause:137]",
+      "file": "c055.ogg",
+      "durationSec": 137.0,
+      "silence": true
+    },
+    {
+      "index": 56,
+      "text": "[Pause:41]",
+      "file": "c056.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 57,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c057.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 58,
+      "text": "Ruhe hier.",
+      "file": "c058.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 59,
+      "text": "[Pause:26]",
+      "file": "c059.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 60,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c060.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 61,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c061.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 62,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c062.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 63,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c063.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "sleep-gate-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 310,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Diese Übung ist für den Rand des Schlafes gedacht.",
+      "file": "c000.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 1,
+      "text": "Dimmen Sie das Licht. Leg dich hin.",
+      "file": "c001.ogg",
+      "durationSec": 6.552
+    },
+    {
+      "index": 2,
+      "text": "In diesem Moment gibt es nichts mehr zu beenden.",
+      "file": "c002.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 3,
+      "text": "[Pause:24]",
+      "file": "c003.ogg",
+      "durationSec": 24.0,
+      "silence": true
+    },
+    {
+      "index": 4,
+      "text": "Atme sanft ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.576
+    },
+    {
+      "index": 5,
+      "text": "Atmen Sie länger aus.",
+      "file": "c005.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 6,
+      "text": "[Pause:24]",
+      "file": "c006.ogg",
+      "durationSec": 24.0,
+      "silence": true
+    },
+    {
+      "index": 7,
+      "text": "Lassen Sie die Stirn los.",
+      "file": "c007.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 8,
+      "text": "Lassen Sie die Augen los.",
+      "file": "c008.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 9,
+      "text": "Lassen Sie den Kiefer los.",
+      "file": "c009.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 10,
+      "text": "[Pause:29]",
+      "file": "c010.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "Schwere Waffen. Schwere Beine.",
+      "file": "c011.ogg",
+      "durationSec": 6.456
+    },
+    {
+      "index": 12,
+      "text": "[Pause:29]",
+      "file": "c012.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Wenn Gedanken vorbeikommen, lass sie vorbeiziehen wie Nachtautos.",
+      "file": "c013.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 14,
+      "text": "Du bleibst beim Atem.",
+      "file": "c014.ogg",
+      "durationSec": 3.792
+    },
+    {
+      "index": 15,
+      "text": "[Pause:45]",
+      "file": "c015.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Körper sinkt.",
+      "file": "c016.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 17,
+      "text": "Atem ruhig.",
+      "file": "c017.ogg",
+      "durationSec": 3.264
+    },
+    {
+      "index": 18,
+      "text": "[Pause:45]",
+      "file": "c018.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Wenn der Schlaf kommt, lass ihn.",
+      "file": "c019.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 20,
+      "text": "Wenn nicht, ruhen Sie sich trotzdem aus.",
+      "file": "c020.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 21,
+      "text": "[Pause:35]",
+      "file": "c021.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Gute Nacht für den Tag.",
+      "file": "c022.ogg",
+      "durationSec": 3.912
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "id": "heart-space-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 648,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:25]",
+      "file": "c007.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:25]",
+      "file": "c009.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:31]",
+      "file": "c012.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Lenken Sie die Aufmerksamkeit auf die Mitte der Brust.",
+      "file": "c013.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 14,
+      "text": "Kein erzwingendes Gefühl. Ich suche nur nach dem Platz.",
+      "file": "c014.ogg",
+      "durationSec": 8.544
+    },
+    {
+      "index": 15,
+      "text": "[Pause:31]",
+      "file": "c015.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Atmen Sie, als ob die Einatmung durch das Herz erfolgt.",
+      "file": "c016.ogg",
+      "durationSec": 7.872
+    },
+    {
+      "index": 17,
+      "text": "Als würde das Ausatmen das Herz von innen heraus erweichen.",
+      "file": "c017.ogg",
+      "durationSec": 7.704
+    },
+    {
+      "index": 18,
+      "text": "[Pause:37]",
+      "file": "c018.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Wenn Emotionen aufkommen, lassen Sie sie sich wie das Wetter bewegen.",
+      "file": "c019.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 20,
+      "text": "[Pause:37]",
+      "file": "c020.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Still: Möge mein Herz ruhig sein.",
+      "file": "c021.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 22,
+      "text": "[Pause:31]",
+      "file": "c022.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Möge ich mit meinem eigenen Timing geduldig sein.",
+      "file": "c023.ogg",
+      "durationSec": 6.672
+    },
+    {
+      "index": 24,
+      "text": "[Pause:31]",
+      "file": "c024.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Erinnern Sie sich an jemanden, der Ihnen leicht am Herzen liegt.",
+      "file": "c025.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 26,
+      "text": "Wünsche ihnen Erleichterung.",
+      "file": "c026.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 27,
+      "text": "Mögen Sie sich wohlfühlen.",
+      "file": "c027.ogg",
+      "durationSec": 4.344
+    },
+    {
+      "index": 28,
+      "text": "[Pause:37]",
+      "file": "c028.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Kehre in deinen eigenen Herzensraum zurück.",
+      "file": "c029.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 30,
+      "text": "Warm. Geräumig. Menschlich.",
+      "file": "c030.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 31,
+      "text": "[Pause:75]",
+      "file": "c031.ogg",
+      "durationSec": 75.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Ruhe hier.",
+      "file": "c032.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 33,
+      "text": "[Pause:90]",
+      "file": "c033.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "[Pause:37]",
+      "file": "c034.ogg",
+      "durationSec": 37.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c035.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 36,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c036.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 37,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c037.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 38,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c038.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 39,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c039.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "id": "quit-smoking-clear-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 343,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Dies ist eine Übung des klaren Atems.",
+      "file": "c001.ogg",
+      "durationSec": 5.832
+    },
+    {
+      "index": 2,
+      "text": "Finde eine bequeme Sitz- oder Liegeposition, wenn dir das besser gefällt.",
+      "file": "c002.ogg",
+      "durationSec": 9.984
+    },
+    {
+      "index": 3,
+      "text": "Lass die Hände ruhen.",
+      "file": "c003.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 4,
+      "text": "Mache die Augen weich oder schließe sie.",
+      "file": "c004.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 5,
+      "text": "Atme langsam durch die Nase ein.",
+      "file": "c005.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 6,
+      "text": "Und einen längeren Ausatmung.",
+      "file": "c006.ogg",
+      "durationSec": 4.728
+    },
+    {
+      "index": 7,
+      "text": "[Pause:10]",
+      "file": "c007.ogg",
+      "durationSec": 10.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Spüre die Luft, wie sie ist.",
+      "file": "c008.ogg",
+      "durationSec": 5.088
+    },
+    {
+      "index": 9,
+      "text": "Kühl beim Einatmen.",
+      "file": "c009.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 10,
+      "text": "Warm beim Ausatmen.",
+      "file": "c010.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 11,
+      "text": "Kein Rauch. Kein Gift. Nur Atem.",
+      "file": "c011.ogg",
+      "durationSec": 0.72
+    },
+    {
+      "index": 12,
+      "text": "[Pause:12]",
+      "file": "c012.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Spüre, wie sich die Brust ohne Anstrengung ausdehnt.",
+      "file": "c013.ogg",
+      "durationSec": 7.488
+    },
+    {
+      "index": 14,
+      "text": "Spüre, wie sich die Rippen ein wenig weiten.",
+      "file": "c014.ogg",
+      "durationSec": 6.576
+    },
+    {
+      "index": 15,
+      "text": "[Pause:12]",
+      "file": "c015.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Legen Sie eine Hand auf das Herz oder lassen Sie beide Hände im Schoß ruhen.",
+      "file": "c016.ogg",
+      "durationSec": 8.664
+    },
+    {
+      "index": 17,
+      "text": "Spüren Sie einen Körper, der sich heilt.",
+      "file": "c017.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 18,
+      "text": "Lungen reinigen. Blut freier. Der Geruchssinn kehrt Tag für Tag zurück.",
+      "file": "c018.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 19,
+      "text": "[Pause:16]",
+      "file": "c019.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Versuchen Sie diese Sätze leise, oder hören Sie einfach zu.",
+      "file": "c020.ogg",
+      "durationSec": 0.72
+    },
+    {
+      "index": 21,
+      "text": "Mein Atem gehört mir.",
+      "file": "c021.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 22,
+      "text": "[Pause:12]",
+      "file": "c022.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Ich wähle saubere Luft.",
+      "file": "c023.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 24,
+      "text": "[Pause:12]",
+      "file": "c024.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Ich bin mit diesem Gift fertig.",
+      "file": "c025.ogg",
+      "durationSec": 4.704
+    },
+    {
+      "index": 26,
+      "text": "[Pause:14]",
+      "file": "c026.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Stellen Sie sich Ihren nächsten gewöhnlichen Moment ohne Zigarette vor.",
+      "file": "c027.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 28,
+      "text": "Kaffee. Ein Spaziergang. Eine Pause nach einer Mahlzeit.",
+      "file": "c028.ogg",
+      "durationSec": 10.584
+    },
+    {
+      "index": 29,
+      "text": "Sehen Sie sich in diesem Moment vollendet, bereits frei.",
+      "file": "c029.ogg",
+      "durationSec": 7.464
+    },
+    {
+      "index": 30,
+      "text": "[Pause:22]",
+      "file": "c030.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Wenn eine Erinnerung an das Rauchen auftaucht, lassen Sie sie ein Bild sein, kein Plan.",
+      "file": "c031.ogg",
+      "durationSec": 10.68
+    },
+    {
+      "index": 32,
+      "text": "Kehren Sie zu diesem Einatmen zurück.",
+      "file": "c032.ogg",
+      "durationSec": 5.328
+    },
+    {
+      "index": 33,
+      "text": "Kehren Sie zu diesem Ausatmen zurück.",
+      "file": "c033.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 34,
+      "text": "[Pause:14]",
+      "file": "c034.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Atmen Sie Freiheit ein.",
+      "file": "c035.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 36,
+      "text": "Atmen Sie die alte Gewohnheitsgeschichte aus.",
+      "file": "c036.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 37,
+      "text": "[Pause:14]",
+      "file": "c037.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 38,
+      "text": "Sie haben die entscheidende Entscheidung getroffen.",
+      "file": "c038.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 39,
+      "text": "Ihr Körper holt diese Wahrheit ein.",
+      "file": "c039.ogg",
+      "durationSec": 5.184
+    },
+    {
+      "index": 40,
+      "text": "[Pause:12]",
+      "file": "c040.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Atme noch einmal tief durch.",
+      "file": "c041.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 42,
+      "text": "Und atme lang und leicht aus.",
+      "file": "c042.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 43,
+      "text": "Bewege die Finger.",
+      "file": "c043.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 44,
+      "text": "Wenn du bereit bist, öffne die Augen.",
+      "file": "c044.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 45,
+      "text": "Nimm diese klare Luft mit dir.",
+      "file": "c045.ogg",
+      "durationSec": 4.944
+    }
+  ]
+}

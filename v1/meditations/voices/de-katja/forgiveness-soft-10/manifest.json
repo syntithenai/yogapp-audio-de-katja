@@ -1,0 +1,249 @@
+{
+  "id": "forgiveness-soft-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 656,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:27]",
+      "file": "c007.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:27]",
+      "file": "c009.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:34]",
+      "file": "c012.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Vergebung bedeutet hier, die eigene geballte Faust loszulassen.",
+      "file": "c013.ogg",
+      "durationSec": 8.832
+    },
+    {
+      "index": 14,
+      "text": "Es spielte keine Rolle, keinen Schaden vorzutäuschen.",
+      "file": "c014.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 15,
+      "text": "[Pause:34]",
+      "file": "c015.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Beginnen Sie mit etwas Kleinem, das Sie sich übel nehmen.",
+      "file": "c016.ogg",
+      "durationSec": 7.584
+    },
+    {
+      "index": 17,
+      "text": "Ein Fehler. Ein Manko.",
+      "file": "c017.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 18,
+      "text": "[Pause:34]",
+      "file": "c018.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Im Stillen: Ich vergebe mir, dass ich ein Mensch bin.",
+      "file": "c019.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 20,
+      "text": "Ich lasse los, was ich nicht mehr tragen muss.",
+      "file": "c020.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 21,
+      "text": "[Pause:54]",
+      "file": "c021.ogg",
+      "durationSec": 54.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Wenn es sich richtig anfühlt, erinnern Sie sich an ein leichtes Problem bei einer anderen Person.",
+      "file": "c022.ogg",
+      "durationSec": 10.944
+    },
+    {
+      "index": 23,
+      "text": "Nicht die schwierigste Geschichte. Ein leichteres.",
+      "file": "c023.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 24,
+      "text": "[Pause:34]",
+      "file": "c024.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Ich gebe frei, was ich kann.",
+      "file": "c025.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 26,
+      "text": "Ich halte meine Grenzen. Ich habe zusätzliches Gewicht abgenommen.",
+      "file": "c026.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 27,
+      "text": "[Pause:54]",
+      "file": "c027.ogg",
+      "durationSec": 54.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Atmen Sie an den Stellen ein, die sich verkrampft haben.",
+      "file": "c028.ogg",
+      "durationSec": 7.416
+    },
+    {
+      "index": 29,
+      "text": "[Pause:68]",
+      "file": "c029.ogg",
+      "durationSec": 68.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Ruhen Sie sich in dem Raum aus, der sich öffnet, wenn die Faust weicher wird.",
+      "file": "c030.ogg",
+      "durationSec": 9.624
+    },
+    {
+      "index": 31,
+      "text": "[Pause:81]",
+      "file": "c031.ogg",
+      "durationSec": 81.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "[Pause:41]",
+      "file": "c032.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c033.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 34,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c034.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 35,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c035.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 36,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c036.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 37,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c037.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

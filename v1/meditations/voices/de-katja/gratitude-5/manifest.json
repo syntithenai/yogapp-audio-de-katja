@@ -1,0 +1,192 @@
+{
+  "id": "gratitude-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 342,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Erinnern Sie sich an eine kleine Sache, die Ihnen heute oder diese Woche geholfen hat.",
+      "file": "c006.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 7,
+      "text": "Es kann gewöhnlich sein. Warmes Wasser. Eine Nachricht. Licht an einer Wand.",
+      "file": "c007.ogg",
+      "durationSec": 13.872
+    },
+    {
+      "index": 8,
+      "text": "[Pause:21]",
+      "file": "c008.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Halten Sie es sanft und bewusst.",
+      "file": "c009.ogg",
+      "durationSec": 4.896
+    },
+    {
+      "index": 10,
+      "text": "Beachten Sie jede Erweichung der Brust oder des Gesichts.",
+      "file": "c010.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 11,
+      "text": "[Pause:26]",
+      "file": "c011.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Im Stillen danke ich dir dafür.",
+      "file": "c012.ogg",
+      "durationSec": 4.56
+    },
+    {
+      "index": 13,
+      "text": "Vielen Dank, dass Sie hier sind.",
+      "file": "c013.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 14,
+      "text": "[Pause:21]",
+      "file": "c014.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Nun noch eine zweite Sache. Noch ein kleines Gut.",
+      "file": "c015.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 16,
+      "text": "[Pause:26]",
+      "file": "c016.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Danke schön.",
+      "file": "c017.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 18,
+      "text": "[Pause:15]",
+      "file": "c018.ogg",
+      "durationSec": 15.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Und noch einer. Ein Drittel.",
+      "file": "c019.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 20,
+      "text": "[Pause:26]",
+      "file": "c020.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Lass Dankbarkeit einfach sein. Nicht gezwungen. Gerade bemerkt.",
+      "file": "c021.ogg",
+      "durationSec": 11.544
+    },
+    {
+      "index": 22,
+      "text": "[Pause:31]",
+      "file": "c022.ogg",
+      "durationSec": 31.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Ruhen Sie sich für ein paar Atemzüge in dieser Wärme aus.",
+      "file": "c023.ogg",
+      "durationSec": 7.08
+    },
+    {
+      "index": 24,
+      "text": "[Pause:41]",
+      "file": "c024.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c025.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 26,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c026.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 27,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c027.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 28,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c028.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

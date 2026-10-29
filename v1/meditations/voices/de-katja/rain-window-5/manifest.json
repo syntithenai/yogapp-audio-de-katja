@@ -1,0 +1,172 @@
+{
+  "id": "rain-window-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 336,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Stellen Sie sich vor, Sie sitzen an einem ruhigen, regnerischen Tag am Fenster.",
+      "file": "c006.ogg",
+      "durationSec": 10.224
+    },
+    {
+      "index": 7,
+      "text": "Glas cool. Die Welt draußen ist weich.",
+      "file": "c007.ogg",
+      "durationSec": 7.152
+    },
+    {
+      "index": 8,
+      "text": "[Pause:30]",
+      "file": "c008.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Hören Sie den Regen, ohne eine Geschichte zu brauchen.",
+      "file": "c009.ogg",
+      "durationSec": 6.816
+    },
+    {
+      "index": 10,
+      "text": "Kleine Wasserhähne. Gelegentlich schwerere Stürze.",
+      "file": "c010.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 11,
+      "text": "[Pause:36]",
+      "file": "c011.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Riechen Sie saubere, feuchte Luft.",
+      "file": "c012.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 13,
+      "text": "Sehen Sie graues Licht, sanft und ohne Eile.",
+      "file": "c013.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 14,
+      "text": "[Pause:30]",
+      "file": "c014.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Bei Regen kann man nirgendwo hingehen.",
+      "file": "c015.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 16,
+      "text": "Erlaubnis zum Innehalten.",
+      "file": "c016.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 17,
+      "text": "[Pause:36]",
+      "file": "c017.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Atmen Sie im Rhythmus des Wassers auf dem Glas.",
+      "file": "c018.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 19,
+      "text": "[Pause:45]",
+      "file": "c019.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Lassen Sie das Nervensystem das Signal übernehmen: weich werden.",
+      "file": "c020.ogg",
+      "durationSec": 8.496
+    },
+    {
+      "index": 21,
+      "text": "[Pause:36]",
+      "file": "c021.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c022.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 23,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c023.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 24,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c024.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 25,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c025.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

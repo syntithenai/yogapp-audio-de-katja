@@ -1,0 +1,245 @@
+{
+  "id": "box-breath-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 375,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Wir werden eine einfache Box einatmen.",
+      "file": "c006.ogg",
+      "durationSec": 6.072
+    },
+    {
+      "index": 7,
+      "text": "Für vier. Viermal warten. Aus für vier. Viermal warten.",
+      "file": "c007.ogg",
+      "durationSec": 12.456
+    },
+    {
+      "index": 8,
+      "text": "Bleiben Sie sanft. Niemals belasten.",
+      "file": "c008.ogg",
+      "durationSec": 7.224
+    },
+    {
+      "index": 9,
+      "text": "[Pause:20]",
+      "file": "c009.ogg",
+      "durationSec": 20.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Einatmen. Zwei. Drei. Vier.",
+      "file": "c010.ogg",
+      "durationSec": 9.432
+    },
+    {
+      "index": 11,
+      "text": "Halten. Zwei. Drei. Vier.",
+      "file": "c011.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 12,
+      "text": "Ausatmen. Zwei. Drei. Vier.",
+      "file": "c012.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 13,
+      "text": "Halten. Zwei. Drei. Vier.",
+      "file": "c013.ogg",
+      "durationSec": 9.072
+    },
+    {
+      "index": 14,
+      "text": "[Pause:20]",
+      "file": "c014.ogg",
+      "durationSec": 20.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Wieder. Einatmen.",
+      "file": "c015.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 16,
+      "text": "Halten.",
+      "file": "c016.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 17,
+      "text": "Ausatmen.",
+      "file": "c017.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 18,
+      "text": "Halten.",
+      "file": "c018.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 19,
+      "text": "[Pause:26]",
+      "file": "c019.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Fahren Sie einige Runden nach eigenem Ermessen fort.",
+      "file": "c020.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 21,
+      "text": "Wenn vier zu lang ist, verwenden Sie drei.",
+      "file": "c021.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 22,
+      "text": "[Pause:45]",
+      "file": "c022.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Noch eine volle Kiste.",
+      "file": "c023.ogg",
+      "durationSec": 3.96
+    },
+    {
+      "index": 24,
+      "text": "Einatmen.",
+      "file": "c024.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 25,
+      "text": "Halten.",
+      "file": "c025.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 26,
+      "text": "Ausatmen.",
+      "file": "c026.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 27,
+      "text": "Halten.",
+      "file": "c027.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 28,
+      "text": "[Pause:26]",
+      "file": "c028.ogg",
+      "durationSec": 26.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Kehren Sie zum natürlichen Atem zurück.",
+      "file": "c029.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 30,
+      "text": "Beachten Sie die Stille, die folgt.",
+      "file": "c030.ogg",
+      "durationSec": 5.544
+    },
+    {
+      "index": 31,
+      "text": "[Pause:33]",
+      "file": "c031.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Ruhe hier.",
+      "file": "c032.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 33,
+      "text": "[Pause:33]",
+      "file": "c033.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c034.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 35,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c035.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 36,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c036.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 37,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c037.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

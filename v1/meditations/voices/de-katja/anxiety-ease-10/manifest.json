@@ -1,0 +1,331 @@
+{
+  "id": "anxiety-ease-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 669,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:20]",
+      "file": "c007.ogg",
+      "durationSec": 20.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:20]",
+      "file": "c009.ogg",
+      "durationSec": 20.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:25]",
+      "file": "c012.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Die Angst kann immer noch da sein. Das ist erlaubt.",
+      "file": "c013.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 14,
+      "text": "Wir kämpfen nicht dagegen. Wir freunden uns mit dem Körper an.",
+      "file": "c014.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 15,
+      "text": "[Pause:25]",
+      "file": "c015.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Drücken Sie die Füße sanft in den Boden.",
+      "file": "c016.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 17,
+      "text": "Spüren Sie, wie der Boden nach hinten drückt.",
+      "file": "c017.ogg",
+      "durationSec": 6.504
+    },
+    {
+      "index": 18,
+      "text": "[Pause:25]",
+      "file": "c018.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Nennen Sie drei Dinge, die Sie hinter geschlossenen Augen oder mit sanftem Blick sehen können.",
+      "file": "c019.ogg",
+      "durationSec": 10.608
+    },
+    {
+      "index": 20,
+      "text": "Dunkel. Licht. Form der Augenlider.",
+      "file": "c020.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 21,
+      "text": "[Pause:25]",
+      "file": "c021.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Nennen Sie drei Empfindungen.",
+      "file": "c022.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 23,
+      "text": "Kleidung. Temperatur. Atem.",
+      "file": "c023.ogg",
+      "durationSec": 8.064
+    },
+    {
+      "index": 24,
+      "text": "[Pause:25]",
+      "file": "c024.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Atme zu viert ein.",
+      "file": "c025.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 26,
+      "text": "Halten Sie für zwei.",
+      "file": "c026.ogg",
+      "durationSec": 3.696
+    },
+    {
+      "index": 27,
+      "text": "Aus für sechs.",
+      "file": "c027.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 28,
+      "text": "[Pause:20]",
+      "file": "c028.ogg",
+      "durationSec": 20.0,
+      "silence": true
+    },
+    {
+      "index": 29,
+      "text": "Wieder.",
+      "file": "c029.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 30,
+      "text": "[Pause:25]",
+      "file": "c030.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 31,
+      "text": "Legen Sie eine Hand auf die Brust oder den Bauch.",
+      "file": "c031.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 32,
+      "text": "Spüren Sie die Bewegung unter der Hand.",
+      "file": "c032.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 33,
+      "text": "Sagen Sie leise: Im Moment atme ich.",
+      "file": "c033.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 34,
+      "text": "[Pause:30]",
+      "file": "c034.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Wenn der Geist voranrast, danken Sie ihm dafür, dass er versucht, Sie zu beschützen.",
+      "file": "c035.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 36,
+      "text": "Kehren Sie dann zu diesem Atemzug zurück.",
+      "file": "c036.ogg",
+      "durationSec": 5.808
+    },
+    {
+      "index": 37,
+      "text": "[Pause:41]",
+      "file": "c037.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 38,
+      "text": "Scannen Sie das Gesicht. Erweichen.",
+      "file": "c038.ogg",
+      "durationSec": 6.648
+    },
+    {
+      "index": 39,
+      "text": "Scannen Sie die Hände. Erweichen.",
+      "file": "c039.ogg",
+      "durationSec": 6.408
+    },
+    {
+      "index": 40,
+      "text": "[Pause:30]",
+      "file": "c040.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 41,
+      "text": "Ruhen Sie im Rhythmus längerer Ausatmungen.",
+      "file": "c041.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 42,
+      "text": "[Pause:76]",
+      "file": "c042.ogg",
+      "durationSec": 76.0,
+      "silence": true
+    },
+    {
+      "index": 43,
+      "text": "Sie haben dem Nervensystem eine weitere Dimension gegeben.",
+      "file": "c043.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 44,
+      "text": "[Pause:41]",
+      "file": "c044.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 45,
+      "text": "[Pause:30]",
+      "file": "c045.ogg",
+      "durationSec": 30.0,
+      "silence": true
+    },
+    {
+      "index": 46,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c046.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 47,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c047.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 48,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c048.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 49,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c049.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 50,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c050.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

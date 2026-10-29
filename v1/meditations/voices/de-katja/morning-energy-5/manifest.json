@@ -1,0 +1,424 @@
+{
+  "id": "morning-energy-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 381,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Guten Morgen.",
+      "file": "c000.ogg",
+      "durationSec": 3.312
+    },
+    {
+      "index": 1,
+      "text": "Willkommen zu einer kurzen Übung zum Kennenlernen des Tages.",
+      "file": "c001.ogg",
+      "durationSec": 7.752
+    },
+    {
+      "index": 2,
+      "text": "Sitzen Sie aufrecht oder stehen Sie, wenn sich das besser anfühlt.",
+      "file": "c002.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 3,
+      "text": "Lassen Sie Ihre Augen weicher werden oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie Ihre Füße auf dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.52
+    },
+    {
+      "index": 5,
+      "text": "Atmen Sie langsam durch die Nase ein.",
+      "file": "c005.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 6,
+      "text": "Und ein volleres Ausatmen durch den Mund.",
+      "file": "c006.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 7,
+      "text": "Wieder. Sanft einatmen.",
+      "file": "c007.ogg",
+      "durationSec": 5.976
+    },
+    {
+      "index": 8,
+      "text": "Vollständig ausatmen.",
+      "file": "c008.ogg",
+      "durationSec": 4.2
+    },
+    {
+      "index": 9,
+      "text": "Noch einer. Fülle die Truhe.",
+      "file": "c009.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 10,
+      "text": "Vollständig entleeren.",
+      "file": "c010.ogg",
+      "durationSec": 4.152
+    },
+    {
+      "index": 11,
+      "text": "[Pause:4]",
+      "file": "c011.ogg",
+      "durationSec": 4.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Schauen Sie auf den Tag voraus, ohne ihn festzuhalten.",
+      "file": "c012.ogg",
+      "durationSec": 7.632
+    },
+    {
+      "index": 13,
+      "text": "Sie benötigen noch nicht die gesamte Karte.",
+      "file": "c013.ogg",
+      "durationSec": 5.856
+    },
+    {
+      "index": 14,
+      "text": "Nur der nächste ehrliche Schritt.",
+      "file": "c014.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 15,
+      "text": "[Pause:5]",
+      "file": "c015.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Atme zu viert ein.",
+      "file": "c016.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 17,
+      "text": "Zwei. Drei. Vier.",
+      "file": "c017.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 18,
+      "text": "Atmen Sie zu viert aus.",
+      "file": "c018.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 19,
+      "text": "Zwei. Drei. Vier.",
+      "file": "c019.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 20,
+      "text": "Wieder in Ihrem eigenen Tempo.",
+      "file": "c020.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 21,
+      "text": "[Pause:6]",
+      "file": "c021.ogg",
+      "durationSec": 6.0,
+      "silence": true
+    },
+    {
+      "index": 22,
+      "text": "Spüren Sie Wärme in den Händen.",
+      "file": "c022.ogg",
+      "durationSec": 5.016
+    },
+    {
+      "index": 23,
+      "text": "Spüren Sie die Bereitschaft in den Beinen.",
+      "file": "c023.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 24,
+      "text": "[Pause:4]",
+      "file": "c024.ogg",
+      "durationSec": 4.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Rollen Sie die Schultern nach oben, hinten und unten.",
+      "file": "c025.ogg",
+      "durationSec": 7.368
+    },
+    {
+      "index": 26,
+      "text": "Öffnen Sie den Kiefer.",
+      "file": "c026.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 27,
+      "text": "Machen Sie den Bauch weich.",
+      "file": "c027.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 28,
+      "text": "Achten Sie auf Schlafreste im Körper.",
+      "file": "c028.ogg",
+      "durationSec": 5.352
+    },
+    {
+      "index": 29,
+      "text": "Es ist nicht nötig, es wegzuschieben.",
+      "file": "c029.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 30,
+      "text": "Atme seitlich in die Rippen.",
+      "file": "c030.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 31,
+      "text": "Und lass sie beim Ausatmen schmaler werden.",
+      "file": "c031.ogg",
+      "durationSec": 5.688
+    },
+    {
+      "index": 32,
+      "text": "[Pause:5]",
+      "file": "c032.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Bringen Sie nun ein wenig Helligkeit in den Atem.",
+      "file": "c033.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 34,
+      "text": "Atmen Sie ein, als würden Sie von innen aufwachen.",
+      "file": "c034.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 35,
+      "text": "Atme alles Schwere von gestern aus.",
+      "file": "c035.ogg",
+      "durationSec": 5.568
+    },
+    {
+      "index": 36,
+      "text": "Möglichkeit zum Einatmen.",
+      "file": "c036.ogg",
+      "durationSec": 4.608
+    },
+    {
+      "index": 37,
+      "text": "Atmen Sie mit einer Anstrengung aus, die noch nicht erforderlich ist.",
+      "file": "c037.ogg",
+      "durationSec": 8.352
+    },
+    {
+      "index": 38,
+      "text": "[Pause:4]",
+      "file": "c038.ogg",
+      "durationSec": 4.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Legen Sie eine Hand auf das Herz oder legen Sie beide Hände in den Schoß.",
+      "file": "c039.ogg",
+      "durationSec": 8.424
+    },
+    {
+      "index": 40,
+      "text": "Probieren Sie diese Sätze im Stillen aus oder hören Sie einfach nur zu.",
+      "file": "c040.ogg",
+      "durationSec": 8.472
+    },
+    {
+      "index": 41,
+      "text": "Ich bin hier.",
+      "file": "c041.ogg",
+      "durationSec": 2.904
+    },
+    {
+      "index": 42,
+      "text": "Ich fange noch einmal an.",
+      "file": "c042.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 43,
+      "text": "Ich habe genug für heute Morgen.",
+      "file": "c043.ogg",
+      "durationSec": 4.872
+    },
+    {
+      "index": 44,
+      "text": "[Pause:4]",
+      "file": "c044.ogg",
+      "durationSec": 4.0,
+      "silence": true
+    },
+    {
+      "index": 45,
+      "text": "Ich bewege mich mit Sicherheit.",
+      "file": "c045.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 46,
+      "text": "Was kommt, begegne ich mit klarem Verstand.",
+      "file": "c046.ogg",
+      "durationSec": 6.696
+    },
+    {
+      "index": 47,
+      "text": "Ich darf heute Platz einnehmen.",
+      "file": "c047.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 48,
+      "text": "[Pause:5]",
+      "file": "c048.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 49,
+      "text": "Ich wähle eine klare Absicht für heute.",
+      "file": "c049.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 50,
+      "text": "Es kann einfach sein.",
+      "file": "c050.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 51,
+      "text": "Freundlichkeit. Fokus. Geduld. Energie.",
+      "file": "c051.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 52,
+      "text": "Halten Sie dieses Wort einen Atemzug lang.",
+      "file": "c052.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 53,
+      "text": "[Pause:6]",
+      "file": "c053.ogg",
+      "durationSec": 6.0,
+      "silence": true
+    },
+    {
+      "index": 54,
+      "text": "Sehen Sie, wie Sie mit dieser Qualität durch den Morgen gehen.",
+      "file": "c054.ogg",
+      "durationSec": 7.896
+    },
+    {
+      "index": 55,
+      "text": "[Pause:5]",
+      "file": "c055.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 56,
+      "text": "[Pause:5]",
+      "file": "c056.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 57,
+      "text": "Strecken Sie die Finger weit, dann sanft.",
+      "file": "c057.ogg",
+      "durationSec": 5.952
+    },
+    {
+      "index": 58,
+      "text": "Heben Sie die Mundwinkel ein wenig an, wenn es sich richtig anfühlt.",
+      "file": "c058.ogg",
+      "durationSec": 8.304
+    },
+    {
+      "index": 59,
+      "text": "[Pause:3]",
+      "file": "c059.ogg",
+      "durationSec": 3.0,
+      "silence": true
+    },
+    {
+      "index": 60,
+      "text": "Spüren Sie, wie sich die Wirbelsäule beim nächsten Einatmen verlängert.",
+      "file": "c060.ogg",
+      "durationSec": 9.048
+    },
+    {
+      "index": 61,
+      "text": "Spüren Sie, wie sich die Schultern beim Ausatmen entspannen.",
+      "file": "c061.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 62,
+      "text": "Noch ein heller Atemzug.",
+      "file": "c062.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 63,
+      "text": "Und ein langes, leichtes Ausatmen.",
+      "file": "c063.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 64,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c064.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 65,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c065.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 66,
+      "text": "Tragen Sie diese ruhige Energie in Ihren Tag.",
+      "file": "c066.ogg",
+      "durationSec": 6.528
+    }
+  ]
+}

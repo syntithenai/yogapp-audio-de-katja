@@ -1,0 +1,296 @@
+{
+  "id": "quit-smoking-urge-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 365,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Wenn ein Verlangen da ist, bist du an der richtigen Stelle.",
+      "file": "c001.ogg",
+      "durationSec": 7.272
+    },
+    {
+      "index": 2,
+      "text": "Du musst es nicht bekämpfen oder nähren.",
+      "file": "c002.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 3,
+      "text": "Finde eine stabile Sitzposition oder steh mit beiden Füßen auf dem Boden.",
+      "file": "c003.ogg",
+      "durationSec": 9.408
+    },
+    {
+      "index": 4,
+      "text": "Mache die Augen weich oder halte einen sanften Blick.",
+      "file": "c004.ogg",
+      "durationSec": 6.528
+    },
+    {
+      "index": 5,
+      "text": "Atme langsam ein.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Und atme länger aus.",
+      "file": "c006.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 7,
+      "text": "[Pause:12]",
+      "file": "c007.ogg",
+      "durationSec": 12.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Nenne einfach, was geschieht.",
+      "file": "c008.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 9,
+      "text": "Ein Verlangen ist vorhanden.",
+      "file": "c009.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 10,
+      "text": "Es ist eine Welle im Körper und Geist.",
+      "file": "c010.ogg",
+      "durationSec": 5.496
+    },
+    {
+      "index": 11,
+      "text": "Es ist kein Befehl.",
+      "file": "c011.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 12,
+      "text": "[Pause:14]",
+      "file": "c012.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Spüre, wo du es fühlst.",
+      "file": "c013.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 14,
+      "text": "Brust. Kehle. Hände. Unruhe.",
+      "file": "c014.ogg",
+      "durationSec": 9.792
+    },
+    {
+      "index": 15,
+      "text": "Keine Notwendigkeit, es größer zu machen. Finde es einfach.",
+      "file": "c015.ogg",
+      "durationSec": 9.888
+    },
+    {
+      "index": 16,
+      "text": "[Pause:16]",
+      "file": "c016.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Atme an diesen Ort.",
+      "file": "c017.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 18,
+      "text": "Atme weichen Raum ein.",
+      "file": "c018.ogg",
+      "durationSec": 4.44
+    },
+    {
+      "index": 19,
+      "text": "Atme ohne Handeln aus.",
+      "file": "c019.ogg",
+      "durationSec": 4.488
+    },
+    {
+      "index": 20,
+      "text": "[Pause:16]",
+      "file": "c020.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Dranggefühle steigen an, erreichen ihren Höhepunkt und fallen wieder ab.",
+      "file": "c021.ogg",
+      "durationSec": 9.024
+    },
+    {
+      "index": 22,
+      "text": "Du bist das Ufer. Die Welle bewegt sich durch.",
+      "file": "c022.ogg",
+      "durationSec": 7.824
+    },
+    {
+      "index": 23,
+      "text": "[Pause:18]",
+      "file": "c023.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "Wenn der Geist eine Geschichte darüber anbietet, dass du eine Zigarette brauchst, danke ihm und kehre zurück.",
+      "file": "c024.ogg",
+      "durationSec": 12.504
+    },
+    {
+      "index": 25,
+      "text": "Kehre zur Atmung zurück.",
+      "file": "c025.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 26,
+      "text": "Kehre zu den Füßen auf dem Boden zurück.",
+      "file": "c026.ogg",
+      "durationSec": 5.592
+    },
+    {
+      "index": 27,
+      "text": "[Pause:16]",
+      "file": "c027.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Stille, wenn es hilft.",
+      "file": "c028.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 29,
+      "text": "Das ist vorübergehend.",
+      "file": "c029.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 30,
+      "text": "Ich kann das durchstehen, ohne zu rauchen.",
+      "file": "c030.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 31,
+      "text": "[Pause:18]",
+      "file": "c031.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Noch einmal. Sanfter Einatmung.",
+      "file": "c032.ogg",
+      "durationSec": 6.744
+    },
+    {
+      "index": 33,
+      "text": "Lange Ausatmung.",
+      "file": "c033.ogg",
+      "durationSec": 3.672
+    },
+    {
+      "index": 34,
+      "text": "[Pause:16]",
+      "file": "c034.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 35,
+      "text": "Spüre jede Erleichterung, auch nur eine kleine.",
+      "file": "c035.ogg",
+      "durationSec": 6.864
+    },
+    {
+      "index": 36,
+      "text": "Oder spüre, dass du bei dir geblieben bist.",
+      "file": "c036.ogg",
+      "durationSec": 6.048
+    },
+    {
+      "index": 37,
+      "text": "Beides zählt.",
+      "file": "c037.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 38,
+      "text": "[Pause:16]",
+      "file": "c038.ogg",
+      "durationSec": 16.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Du bist ein Nichtraucher, der auf einen alten Ego trifft.",
+      "file": "c039.ogg",
+      "durationSec": 7.296
+    },
+    {
+      "index": 40,
+      "text": "Der Drang kann besuchen. Er kann dich nicht besitzen.",
+      "file": "c040.ogg",
+      "durationSec": 7.92
+    },
+    {
+      "index": 41,
+      "text": "[Pause:14]",
+      "file": "c041.ogg",
+      "durationSec": 14.0,
+      "silence": true
+    },
+    {
+      "index": 42,
+      "text": "Atme noch einmal leicht.",
+      "file": "c042.ogg",
+      "durationSec": 4.128
+    },
+    {
+      "index": 43,
+      "text": "Bewege die Finger.",
+      "file": "c043.ogg",
+      "durationSec": 3.624
+    },
+    {
+      "index": 44,
+      "text": "Wenn du bereit bist, öffne die Augen.",
+      "file": "c044.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 45,
+      "text": "Fahre deinen Tag frei fort.",
+      "file": "c045.ogg",
+      "durationSec": 4.752
+    }
+  ]
+}

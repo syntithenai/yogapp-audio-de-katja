@@ -1,0 +1,223 @@
+{
+  "id": "focus-clarity-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 347,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Suchen Sie sich einen bequemen Sitz oder legen Sie sich hin, wenn sich das besser anfühlt.",
+      "file": "c001.ogg",
+      "durationSec": 10.56
+    },
+    {
+      "index": 2,
+      "text": "Lassen Sie die Hände ruhen.",
+      "file": "c002.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 3,
+      "text": "Machen Sie die Augen weicher oder schließen Sie sie.",
+      "file": "c003.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 4,
+      "text": "Atme langsam ein.",
+      "file": "c004.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 5,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 6,
+      "text": "Wählen Sie einen Anker. Der Atem an den Nasenlöchern oder das Heben des Bauches.",
+      "file": "c006.ogg",
+      "durationSec": 11.112
+    },
+    {
+      "index": 7,
+      "text": "Ruhen Sie dort aus.",
+      "file": "c007.ogg",
+      "durationSec": 3.552
+    },
+    {
+      "index": 8,
+      "text": "[Pause:23]",
+      "file": "c008.ogg",
+      "durationSec": 23.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Wenn der Geist abschweift, achten Sie darauf, wohin er gegangen ist.",
+      "file": "c009.ogg",
+      "durationSec": 8.64
+    },
+    {
+      "index": 10,
+      "text": "Dann kehre zurück. Freundlich. Sauber.",
+      "file": "c010.ogg",
+      "durationSec": 8.784
+    },
+    {
+      "index": 11,
+      "text": "[Pause:29]",
+      "file": "c011.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Die Rückkehr ist das Training.",
+      "file": "c012.ogg",
+      "durationSec": 4.464
+    },
+    {
+      "index": 13,
+      "text": "Einatmen. Bleiben.",
+      "file": "c013.ogg",
+      "durationSec": 5.424
+    },
+    {
+      "index": 14,
+      "text": "Ausatmen. Bleiben.",
+      "file": "c014.ogg",
+      "durationSec": 5.4
+    },
+    {
+      "index": 15,
+      "text": "[Pause:34]",
+      "file": "c015.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Wenn es hilfreich ist, zählen Sie die Atemzüge bis fünf und beginnen Sie dann von vorne.",
+      "file": "c016.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 17,
+      "text": "Eins.",
+      "file": "c017.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 18,
+      "text": "[Pause:17]",
+      "file": "c018.ogg",
+      "durationSec": 17.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Zwei.",
+      "file": "c019.ogg",
+      "durationSec": 2.328
+    },
+    {
+      "index": 20,
+      "text": "[Pause:17]",
+      "file": "c020.ogg",
+      "durationSec": 17.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Drei.",
+      "file": "c021.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 22,
+      "text": "[Pause:17]",
+      "file": "c022.ogg",
+      "durationSec": 17.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Vier.",
+      "file": "c023.ogg",
+      "durationSec": 2.28
+    },
+    {
+      "index": 24,
+      "text": "[Pause:17]",
+      "file": "c024.ogg",
+      "durationSec": 17.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Fünf.",
+      "file": "c025.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 26,
+      "text": "[Pause:23]",
+      "file": "c026.ogg",
+      "durationSec": 23.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Lassen Sie die Zählung los.",
+      "file": "c027.ogg",
+      "durationSec": 4.272
+    },
+    {
+      "index": 28,
+      "text": "Verweilen Sie für einen Moment in klarer, offener Aufmerksamkeit.",
+      "file": "c028.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 29,
+      "text": "[Pause:34]",
+      "file": "c029.ogg",
+      "durationSec": 34.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c030.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 31,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c031.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 32,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c032.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 33,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c033.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "id": "sound-listening-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 653,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Nehmen Sie sich Zeit zum Ankommen.",
+      "file": "c001.ogg",
+      "durationSec": 5.208
+    },
+    {
+      "index": 2,
+      "text": "Setzen oder legen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 6.36
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Spüren Sie den Kontakt mit dem Boden.",
+      "file": "c004.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 5,
+      "text": "Langsam einatmen.",
+      "file": "c005.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 6,
+      "text": "Längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 7,
+      "text": "[Pause:23]",
+      "file": "c007.ogg",
+      "durationSec": 23.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Wieder.",
+      "file": "c008.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 9,
+      "text": "[Pause:23]",
+      "file": "c009.ogg",
+      "durationSec": 23.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c010.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie den Bauch weich werden.",
+      "file": "c011.ogg",
+      "durationSec": 4.632
+    },
+    {
+      "index": 12,
+      "text": "[Pause:29]",
+      "file": "c012.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Öffne die Ohren.",
+      "file": "c013.ogg",
+      "durationSec": 3.384
+    },
+    {
+      "index": 14,
+      "text": "Beachten Sie das nächste Geräusch.",
+      "file": "c014.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 15,
+      "text": "[Pause:29]",
+      "file": "c015.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 16,
+      "text": "Beachten Sie den am weitesten entfernten Ton, den Sie hören können.",
+      "file": "c016.ogg",
+      "durationSec": 8.688
+    },
+    {
+      "index": 17,
+      "text": "[Pause:29]",
+      "file": "c017.ogg",
+      "durationSec": 29.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Beachten Sie die Stille zwischen den Geräuschen.",
+      "file": "c018.ogg",
+      "durationSec": 5.904
+    },
+    {
+      "index": 19,
+      "text": "[Pause:35]",
+      "file": "c019.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 20,
+      "text": "Geräusche entstehen und vergehen. Sie müssen sie nicht benennen.",
+      "file": "c020.ogg",
+      "durationSec": 9.216
+    },
+    {
+      "index": 21,
+      "text": "Hören hört.",
+      "file": "c021.ogg",
+      "durationSec": 3.12
+    },
+    {
+      "index": 22,
+      "text": "[Pause:47]",
+      "file": "c022.ogg",
+      "durationSec": 47.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Wenn die Gedanken abschweifen, kehren Sie zum Zuhören zurück.",
+      "file": "c023.ogg",
+      "durationSec": 8.136
+    },
+    {
+      "index": 24,
+      "text": "[Pause:35]",
+      "file": "c024.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Beziehen Sie den Klang Ihres eigenen Atems mit ein.",
+      "file": "c025.ogg",
+      "durationSec": 6.96
+    },
+    {
+      "index": 26,
+      "text": "[Pause:35]",
+      "file": "c026.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Ruhen Sie sich in der gesamten Klanglandschaft aus.",
+      "file": "c027.ogg",
+      "durationSec": 6.6
+    },
+    {
+      "index": 28,
+      "text": "Ein lebendiges Schwingungsfeld.",
+      "file": "c028.ogg",
+      "durationSec": 4.752
+    },
+    {
+      "index": 29,
+      "text": "[Pause:90]",
+      "file": "c029.ogg",
+      "durationSec": 90.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Beim Zuhören gibt es nichts zu lösen.",
+      "file": "c030.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 31,
+      "text": "[Pause:70]",
+      "file": "c031.ogg",
+      "durationSec": 70.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "[Pause:35]",
+      "file": "c032.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Beginnen Sie, den Atem zu vertiefen.",
+      "file": "c033.ogg",
+      "durationSec": 5.88
+    },
+    {
+      "index": 34,
+      "text": "Ruhe hier.",
+      "file": "c034.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 35,
+      "text": "[Pause:27]",
+      "file": "c035.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "Spüren Sie den Raum noch einmal.",
+      "file": "c036.ogg",
+      "durationSec": 4.848
+    },
+    {
+      "index": 37,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c037.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 38,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c038.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 39,
+      "text": "Gehen Sie langsam auf das ein, was als nächstes kommt.",
+      "file": "c039.ogg",
+      "durationSec": 7.32
+    }
+  ]
+}

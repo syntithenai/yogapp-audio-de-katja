@@ -1,0 +1,281 @@
+{
+  "id": "sleep-descent-15",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 939,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen in einer Praxis zum Schlafen.",
+      "file": "c000.ogg",
+      "durationSec": 5.712
+    },
+    {
+      "index": 1,
+      "text": "Leg dich hin. Machen Sie die Dunkelheit zu Ihrem Freund.",
+      "file": "c001.ogg",
+      "durationSec": 8.616
+    },
+    {
+      "index": 2,
+      "text": "Es kann sein, dass Sie vor dem Ende einschlafen. Das ist Erfolg.",
+      "file": "c002.ogg",
+      "durationSec": 9.528
+    },
+    {
+      "index": 3,
+      "text": "[Pause:22]",
+      "file": "c003.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 4,
+      "text": "Langsam einatmen.",
+      "file": "c004.ogg",
+      "durationSec": 3.912
+    },
+    {
+      "index": 5,
+      "text": "Längeres Ausatmen.",
+      "file": "c005.ogg",
+      "durationSec": 4.008
+    },
+    {
+      "index": 6,
+      "text": "[Pause:22]",
+      "file": "c006.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 7,
+      "text": "Lassen Sie die Stirn los.",
+      "file": "c007.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 8,
+      "text": "[Pause:18]",
+      "file": "c008.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 9,
+      "text": "Lassen Sie die Augen los.",
+      "file": "c009.ogg",
+      "durationSec": 4.032
+    },
+    {
+      "index": 10,
+      "text": "[Pause:18]",
+      "file": "c010.ogg",
+      "durationSec": 18.0,
+      "silence": true
+    },
+    {
+      "index": 11,
+      "text": "Lassen Sie Kiefer und Zunge los.",
+      "file": "c011.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 12,
+      "text": "[Pause:22]",
+      "file": "c012.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 13,
+      "text": "Schultern schmelzen.",
+      "file": "c013.ogg",
+      "durationSec": 3.768
+    },
+    {
+      "index": 14,
+      "text": "[Pause:22]",
+      "file": "c014.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Arme schwer. Hände öffnen.",
+      "file": "c015.ogg",
+      "durationSec": 6.288
+    },
+    {
+      "index": 16,
+      "text": "[Pause:22]",
+      "file": "c016.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 17,
+      "text": "Brust weich. Bauch weich.",
+      "file": "c017.ogg",
+      "durationSec": 5.736
+    },
+    {
+      "index": 18,
+      "text": "[Pause:22]",
+      "file": "c018.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 19,
+      "text": "Hüften schwer.",
+      "file": "c019.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 20,
+      "text": "[Pause:22]",
+      "file": "c020.ogg",
+      "durationSec": 22.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Beine schwer. Füße schwer.",
+      "file": "c021.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 22,
+      "text": "[Pause:27]",
+      "file": "c022.ogg",
+      "durationSec": 27.0,
+      "silence": true
+    },
+    {
+      "index": 23,
+      "text": "Der ganze Körper sinkt ins Bett.",
+      "file": "c023.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 24,
+      "text": "[Pause:36]",
+      "file": "c024.ogg",
+      "durationSec": 36.0,
+      "silence": true
+    },
+    {
+      "index": 25,
+      "text": "Gedanken wie entfernter Verkehr.",
+      "file": "c025.ogg",
+      "durationSec": 4.824
+    },
+    {
+      "index": 26,
+      "text": "Du folgst ihnen nicht.",
+      "file": "c026.ogg",
+      "durationSec": 3.864
+    },
+    {
+      "index": 27,
+      "text": "[Pause:45]",
+      "file": "c027.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 28,
+      "text": "Ruhiger atmen.",
+      "file": "c028.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 29,
+      "text": "[Pause:45]",
+      "file": "c029.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Dunkler. Weicher. Langsamer.",
+      "file": "c030.ogg",
+      "durationSec": 7.848
+    },
+    {
+      "index": 31,
+      "text": "[Pause:67]",
+      "file": "c031.ogg",
+      "durationSec": 67.0,
+      "silence": true
+    },
+    {
+      "index": 32,
+      "text": "Nichts zu beenden.",
+      "file": "c032.ogg",
+      "durationSec": 3.816
+    },
+    {
+      "index": 33,
+      "text": "[Pause:54]",
+      "file": "c033.ogg",
+      "durationSec": 54.0,
+      "silence": true
+    },
+    {
+      "index": 34,
+      "text": "Sicher zum Ausruhen.",
+      "file": "c034.ogg",
+      "durationSec": 4.08
+    },
+    {
+      "index": 35,
+      "text": "[Pause:89]",
+      "file": "c035.ogg",
+      "durationSec": 89.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "Sicher schlafen.",
+      "file": "c036.ogg",
+      "durationSec": 3.432
+    },
+    {
+      "index": 37,
+      "text": "[Pause:112]",
+      "file": "c037.ogg",
+      "durationSec": 112.0,
+      "silence": true
+    },
+    {
+      "index": 38,
+      "text": "Wenn Sie noch wach sind, ruhen Sie sich beim Ausatmen weiter aus.",
+      "file": "c038.ogg",
+      "durationSec": 8.112
+    },
+    {
+      "index": 39,
+      "text": "[Pause:89]",
+      "file": "c039.ogg",
+      "durationSec": 89.0,
+      "silence": true
+    },
+    {
+      "index": 40,
+      "text": "Gute Nacht.",
+      "file": "c040.ogg",
+      "durationSec": 3.072
+    },
+    {
+      "index": 41,
+      "text": "[Pause:67]",
+      "file": "c041.ogg",
+      "durationSec": 67.0,
+      "silence": true
+    }
+  ]
+}

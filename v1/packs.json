@@ -1,0 +1,6 @@
+{
+  "version": "v1",
+  "packs": [
+    {"file": "de-katja.zip", "bytes": 59705664, "sha256": "3fbd5ad62d5cd79ce277cdd66a07bea7cebdfc68a14796b784725f179928f7c3"}
+  ]
+}

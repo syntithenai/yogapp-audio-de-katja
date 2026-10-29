@@ -1,0 +1,166 @@
+{
+  "id": "cool-anger-5",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 312,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Wenn Ärger oder Verärgerung vorhanden sind, sind Sie hier willkommen.",
+      "file": "c001.ogg",
+      "durationSec": 8.4
+    },
+    {
+      "index": 2,
+      "text": "Sie müssen es nicht verschwinden lassen.",
+      "file": "c002.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 3,
+      "text": "Geben Sie ihm einfach mehr Platz.",
+      "file": "c003.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 4,
+      "text": "Spüre die Füße.",
+      "file": "c004.ogg",
+      "durationSec": 3.72
+    },
+    {
+      "index": 5,
+      "text": "[Pause:25]",
+      "file": "c005.ogg",
+      "durationSec": 25.0,
+      "silence": true
+    },
+    {
+      "index": 6,
+      "text": "Viermal einatmen.",
+      "file": "c006.ogg",
+      "durationSec": 3.84
+    },
+    {
+      "index": 7,
+      "text": "Atme sechs oder acht lang aus.",
+      "file": "c007.ogg",
+      "durationSec": 5.064
+    },
+    {
+      "index": 8,
+      "text": "Längere Ausatmungen kühlen das System.",
+      "file": "c008.ogg",
+      "durationSec": 6.024
+    },
+    {
+      "index": 9,
+      "text": "[Pause:33]",
+      "file": "c009.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 10,
+      "text": "Wieder.",
+      "file": "c010.ogg",
+      "durationSec": 2.4
+    },
+    {
+      "index": 11,
+      "text": "[Pause:33]",
+      "file": "c011.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Benennen Sie die Hitze, ohne die Geschichte zu erzählen.",
+      "file": "c012.ogg",
+      "durationSec": 7.32
+    },
+    {
+      "index": 13,
+      "text": "Hitze in der Brust. Enger Kiefer. Schneller Verstand.",
+      "file": "c013.ogg",
+      "durationSec": 10.464
+    },
+    {
+      "index": 14,
+      "text": "[Pause:41]",
+      "file": "c014.ogg",
+      "durationSec": 41.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Machen Sie die Hände weich.",
+      "file": "c015.ogg",
+      "durationSec": 4.056
+    },
+    {
+      "index": 16,
+      "text": "Lassen Sie die Schultern fallen.",
+      "file": "c016.ogg",
+      "durationSec": 4.536
+    },
+    {
+      "index": 17,
+      "text": "[Pause:33]",
+      "file": "c017.ogg",
+      "durationSec": 33.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Sie können später von einem klareren Ort aus antworten.",
+      "file": "c018.ogg",
+      "durationSec": 7.56
+    },
+    {
+      "index": 19,
+      "text": "Atmen Sie erst einmal durch.",
+      "file": "c019.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 20,
+      "text": "[Pause:45]",
+      "file": "c020.ogg",
+      "durationSec": 45.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c021.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 22,
+      "text": "Wackeln Sie mit den Fingern.",
+      "file": "c022.ogg",
+      "durationSec": 4.224
+    },
+    {
+      "index": 23,
+      "text": "Wenn Sie bereit sind, öffnen Sie die Augen.",
+      "file": "c023.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 24,
+      "text": "Tragen Sie ein wenig davon bei sich.",
+      "file": "c024.ogg",
+      "durationSec": 5.136
+    }
+  ]
+}

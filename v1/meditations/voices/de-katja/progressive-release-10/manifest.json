@@ -1,0 +1,475 @@
+{
+  "id": "progressive-release-10",
+  "voiceId": "de-katja",
+  "edgeVoice": "de-DE-KatjaNeural",
+  "rate": "-42%",
+  "pitch": "-18Hz",
+  "totalSec": 752,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Willkommen.",
+      "file": "c000.ogg",
+      "durationSec": 3.024
+    },
+    {
+      "index": 1,
+      "text": "Diese Praxis nutzt sanftes An- und Lösen.",
+      "file": "c001.ogg",
+      "durationSec": 7.056
+    },
+    {
+      "index": 2,
+      "text": "Legen Sie sich hin, wenn Sie können, oder setzen Sie sich mit Unterstützung hin.",
+      "file": "c002.ogg",
+      "durationSec": 9.696
+    },
+    {
+      "index": 3,
+      "text": "Schließen Sie die Augen, wenn sich das sicher anfühlt.",
+      "file": "c003.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 4,
+      "text": "Nichts zu erzwingen. Bleiben Sie in einem angenehmen Bereich.",
+      "file": "c004.ogg",
+      "durationSec": 9.0
+    },
+    {
+      "index": 5,
+      "text": "Atme langsam ein.",
+      "file": "c005.ogg",
+      "durationSec": 3.744
+    },
+    {
+      "index": 6,
+      "text": "Und ein längeres Ausatmen.",
+      "file": "c006.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 7,
+      "text": "[Pause:19]",
+      "file": "c007.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 8,
+      "text": "Lenken Sie die Aufmerksamkeit auf beide Füße.",
+      "file": "c008.ogg",
+      "durationSec": 6.432
+    },
+    {
+      "index": 9,
+      "text": "Locken Sie die Zehen und spannen Sie die Füße an.",
+      "file": "c009.ogg",
+      "durationSec": 6.384
+    },
+    {
+      "index": 10,
+      "text": "Halten.",
+      "file": "c010.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 11,
+      "text": "[Pause:19]",
+      "file": "c011.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 12,
+      "text": "Freigeben.",
+      "file": "c012.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 13,
+      "text": "Spüren Sie den Unterschied.",
+      "file": "c013.ogg",
+      "durationSec": 4.584
+    },
+    {
+      "index": 14,
+      "text": "[Pause:21]",
+      "file": "c014.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 15,
+      "text": "Spannen Sie die Waden an.",
+      "file": "c015.ogg",
+      "durationSec": 4.368
+    },
+    {
+      "index": 16,
+      "text": "Halten.",
+      "file": "c016.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 17,
+      "text": "[Pause:19]",
+      "file": "c017.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 18,
+      "text": "Freigeben.",
+      "file": "c018.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 19,
+      "text": "Lassen Sie die Unterschenkel schwer werden.",
+      "file": "c019.ogg",
+      "durationSec": 5.64
+    },
+    {
+      "index": 20,
+      "text": "[Pause:21]",
+      "file": "c020.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 21,
+      "text": "Spannen Sie die Oberschenkel an.",
+      "file": "c021.ogg",
+      "durationSec": 4.944
+    },
+    {
+      "index": 22,
+      "text": "Halten.",
+      "file": "c022.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 23,
+      "text": "[Pause:19]",
+      "file": "c023.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 24,
+      "text": "Freigeben.",
+      "file": "c024.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 25,
+      "text": "Weiche Beine. Weiche Hüften.",
+      "file": "c025.ogg",
+      "durationSec": 6.336
+    },
+    {
+      "index": 26,
+      "text": "[Pause:21]",
+      "file": "c026.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 27,
+      "text": "Ziehen Sie den Bauch vorsichtig ein.",
+      "file": "c027.ogg",
+      "durationSec": 4.992
+    },
+    {
+      "index": 28,
+      "text": "Ohne Anstrengung halten.",
+      "file": "c028.ogg",
+      "durationSec": 4.32
+    },
+    {
+      "index": 29,
+      "text": "[Pause:19]",
+      "file": "c029.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 30,
+      "text": "Freigeben.",
+      "file": "c030.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 31,
+      "text": "Lassen Sie den Bauch beim Atmen frei bewegen.",
+      "file": "c031.ogg",
+      "durationSec": 6.0
+    },
+    {
+      "index": 32,
+      "text": "[Pause:21]",
+      "file": "c032.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 33,
+      "text": "Machen Sie weiche Fäuste. Spannen Sie die Hände und Unterarme an.",
+      "file": "c033.ogg",
+      "durationSec": 9.912
+    },
+    {
+      "index": 34,
+      "text": "Halten.",
+      "file": "c034.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 35,
+      "text": "[Pause:19]",
+      "file": "c035.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 36,
+      "text": "Freigeben.",
+      "file": "c036.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 37,
+      "text": "Finger offen. Arme schwer.",
+      "file": "c037.ogg",
+      "durationSec": 6.12
+    },
+    {
+      "index": 38,
+      "text": "[Pause:21]",
+      "file": "c038.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 39,
+      "text": "Ziehen Sie die Schultern nach oben in Richtung der Ohren.",
+      "file": "c039.ogg",
+      "durationSec": 6.792
+    },
+    {
+      "index": 40,
+      "text": "Halten.",
+      "file": "c040.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 41,
+      "text": "[Pause:19]",
+      "file": "c041.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 42,
+      "text": "Lass sie fallen.",
+      "file": "c042.ogg",
+      "durationSec": 3.192
+    },
+    {
+      "index": 43,
+      "text": "Spüren Sie den Raum im oberen Rückenbereich.",
+      "file": "c043.ogg",
+      "durationSec": 6.144
+    },
+    {
+      "index": 44,
+      "text": "[Pause:21]",
+      "file": "c044.ogg",
+      "durationSec": 21.0,
+      "silence": true
+    },
+    {
+      "index": 45,
+      "text": "Das Gesicht sanft zerkleinern. Augen, Stirn, Kiefer.",
+      "file": "c045.ogg",
+      "durationSec": 9.816
+    },
+    {
+      "index": 46,
+      "text": "Halten.",
+      "file": "c046.ogg",
+      "durationSec": 2.616
+    },
+    {
+      "index": 47,
+      "text": "[Pause:19]",
+      "file": "c047.ogg",
+      "durationSec": 19.0,
+      "silence": true
+    },
+    {
+      "index": 48,
+      "text": "Freigeben.",
+      "file": "c048.ogg",
+      "durationSec": 2.976
+    },
+    {
+      "index": 49,
+      "text": "Stirn glatt. Kiefer weich. Zunge ruht.",
+      "file": "c049.ogg",
+      "durationSec": 8.976
+    },
+    {
+      "index": 50,
+      "text": "[Pause:23]",
+      "file": "c050.ogg",
+      "durationSec": 23.0,
+      "silence": true
+    },
+    {
+      "index": 51,
+      "text": "Spannen Sie nun den ganzen Körper leicht an, als Einheit.",
+      "file": "c051.ogg",
+      "durationSec": 7.8
+    },
+    {
+      "index": 52,
+      "text": "Halten Sie einen Atemzug an.",
+      "file": "c052.ogg",
+      "durationSec": 4.68
+    },
+    {
+      "index": 53,
+      "text": "[Pause:35]",
+      "file": "c053.ogg",
+      "durationSec": 35.0,
+      "silence": true
+    },
+    {
+      "index": 54,
+      "text": "Lass alles los.",
+      "file": "c054.ogg",
+      "durationSec": 3.48
+    },
+    {
+      "index": 55,
+      "text": "[Pause:8]",
+      "file": "c055.ogg",
+      "durationSec": 8.0,
+      "silence": true
+    },
+    {
+      "index": 56,
+      "text": "Noch einmal ein leichterer Ganzkörperdruck.",
+      "file": "c056.ogg",
+      "durationSec": 5.76
+    },
+    {
+      "index": 57,
+      "text": "Kurz halten.",
+      "file": "c057.ogg",
+      "durationSec": 3.216
+    },
+    {
+      "index": 58,
+      "text": "[Pause:5]",
+      "file": "c058.ogg",
+      "durationSec": 5.0,
+      "silence": true
+    },
+    {
+      "index": 59,
+      "text": "Und vollständig loslassen.",
+      "file": "c059.ogg",
+      "durationSec": 4.512
+    },
+    {
+      "index": 60,
+      "text": "Jetzt schwerer. Jetzt weicher.",
+      "file": "c060.ogg",
+      "durationSec": 6.216
+    },
+    {
+      "index": 61,
+      "text": "Spüren Sie, wie sich der Körper in der Oberfläche unter Ihnen niederlässt.",
+      "file": "c061.ogg",
+      "durationSec": 9.192
+    },
+    {
+      "index": 62,
+      "text": "[Pause:39]",
+      "file": "c062.ogg",
+      "durationSec": 39.0,
+      "silence": true
+    },
+    {
+      "index": 63,
+      "text": "Ruhe hier.",
+      "file": "c063.ogg",
+      "durationSec": 3.0
+    },
+    {
+      "index": 64,
+      "text": "Atem ruhig. Körper weich.",
+      "file": "c064.ogg",
+      "durationSec": 6.24
+    },
+    {
+      "index": 65,
+      "text": "Wenn die Gedanken zurückkehren, ist das in Ordnung.",
+      "file": "c065.ogg",
+      "durationSec": 6.912
+    },
+    {
+      "index": 66,
+      "text": "Kehren Sie zum Gefühl der Befreiung zurück.",
+      "file": "c066.ogg",
+      "durationSec": 5.784
+    },
+    {
+      "index": 67,
+      "text": "[Pause:50]",
+      "file": "c067.ogg",
+      "durationSec": 50.0,
+      "silence": true
+    },
+    {
+      "index": 68,
+      "text": "Bleib weich.",
+      "file": "c068.ogg",
+      "durationSec": 2.88
+    },
+    {
+      "index": 69,
+      "text": "[Pause:40]",
+      "file": "c069.ogg",
+      "durationSec": 40.0,
+      "silence": true
+    },
+    {
+      "index": 70,
+      "text": "Wackeln Sie mit Fingern und Zehen.",
+      "file": "c070.ogg",
+      "durationSec": 5.16
+    },
+    {
+      "index": 71,
+      "text": "Atmen Sie noch einmal ruhig durch.",
+      "file": "c071.ogg",
+      "durationSec": 5.256
+    },
+    {
+      "index": 72,
+      "text": "Wenn Sie fertig sind, öffnen Sie die Augen.",
+      "file": "c072.ogg",
+      "durationSec": 6.192
+    },
+    {
+      "index": 73,
+      "text": "Tragen Sie diese Weichheit mit sich.",
+      "file": "c073.ogg",
+      "durationSec": 5.04
+    }
+  ]
+}
